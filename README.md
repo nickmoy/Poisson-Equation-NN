@@ -1,2 +1,2 @@
 # Poisson-Equation-NN
-Simple feed forward Neural Network setup to solve the 2-D Poisson Equation with Dirichlet Boundary conditions.
+Jupyter Notebook with a simple feed forward Neural Network setup using Pytorch to solve the 2-D Poisson Equation with Dirichlet Boundary conditions. This has a good boilerplate setup for creating a neural network in pytorch using CPU (not Cuda).
